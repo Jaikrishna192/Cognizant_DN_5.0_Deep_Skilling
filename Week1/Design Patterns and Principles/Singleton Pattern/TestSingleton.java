@@ -28,5 +28,7 @@ public class TestSingleton {
         } else {
             System.out.println("Different instances");
         }
+        System.out.println("Logger1 hashcode: " + logger1.hashCode());
+        System.out.println("Logger2 hashcode: " + logger2.hashCode());
     }
 }
