@@ -57,7 +57,8 @@ public class EcommerceSearch {
             new Product(101, "Running Shoes", "Footwear"),
             new Product(104, "Coffee Mug", "Kitchen"),
             new Product(102, "Leather Wallet", "Accessories"),
-            new Product(103, "Desk Lamp", "Furniture")
+            new Product(103, "Desk Lamp", "Furniture"),
+            new Product(119, "Bluetooth Headphones", "Electronics")
         };
  
         int searchId = 104;
